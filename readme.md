@@ -9,8 +9,8 @@ This is a backend project to solve the Royal Commission for Jubail and Yanbu cha
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Credintials](#credintials)
+
 
 ## Installation
 
