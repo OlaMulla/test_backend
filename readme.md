@@ -1,9 +1,7 @@
-Certainly! Below is a template for a README.md file for a Node.js MongoDB Express project. This assumes you have a basic understanding of how your project is structured.
 
-```markdown
-# Project Name
+# Ola royal project
 
-A brief description of your project.
+This is a backend project to solve the Royal Commission for Jubail and Yanbu challenge as a job requirements.
 
 ## Table of Contents
 
