@@ -16,17 +16,9 @@ This is a backend project to solve the Royal Commission for Jubail and Yanbu cha
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/your-username/your-project.git
-   ```
+  https://github.com/OlaMulla/test_backend.git
 
-2. **Navigate to the project directory**
-
-   ```bash
-   cd your-project
-   ```
-
-3. **Install dependencies**
+2. **Install dependencies**
 
    ```bash
    npm install
@@ -42,19 +34,15 @@ This is a backend project to solve the Royal Commission for Jubail and Yanbu cha
 
 2. **Access the application**
 
-   Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
+   Open your web browser and navigate to [http://localhost:5000](http://localhost:5000).
 
 ## Project Structure
 
-- **`/src`**: Contains the source code of your application.
-- **`/public`**: Static files (e.g., images, stylesheets) that can be accessed directly by clients.
 - **`/config`**: Configuration files.
 - **`/models`**: MongoDB schema and models.
-- **`/routes`**: Express route handlers.
+- **`/routers`**: Express route handlers.
 - **`/views`**: Views (if using a templating engine like EJS or Pug).
-- **`/middlewares`**: Custom middlewares.
-- **`/tests`**: Unit or integration tests.
-- **`/scripts`**: Useful scripts for development or maintenance.
+- **`/controllers`**: handle business logic.
 
 ## Dependencies
 
@@ -62,20 +50,11 @@ This is a backend project to solve the Royal Commission for Jubail and Yanbu cha
 - Express
 - MongoDB (and Mongoose as the ODM)
 - Other dependencies...
+- 
+## Credintials
 
-## Contributing
+This code creates an admin user for project test purposes. 
 
-If you want to contribute to this project, follow these steps:
-
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/fooBar`).
-3. Make changes and commit them (`git commit -am 'Add some fooBar'`).
-4. Push to the branch (`git push origin feature/fooBar`).
-5. Create a new pull request.
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Replace placeholders such as "your-username," "your-project," and "Your License" with appropriate values for your project. Additionally, update the installation steps if there are additional configurations needed.
+The Admin credentials are the following: 
+Username: admin@attendance.com
+Password: admin@545
