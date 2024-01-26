@@ -1,3 +1,3 @@
-const db_url = "mongodb+srv://attendance:attendance054@attendance.m0js2tv.mongodb.net/?retryWrites=true&w=majority";
+const db_url = "mongodb+srv://olamolla:Ola8662@olaroyaltest.ydb7km8.mongodb.net/";
 
 module.exports = db_url
